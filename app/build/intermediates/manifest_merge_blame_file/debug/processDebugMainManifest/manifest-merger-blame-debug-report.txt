@@ -1,0 +1,292 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.hextree.flagsolver"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="35" />
+10
+11    <queries>
+11-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:5:5-7:15
+12        <package android:name="io.hextree.attacksurface" />
+12-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:6:9-60
+12-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:6:18-57
+13    </queries>
+14
+15    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+15-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:9:5-77
+15-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:9:22-74
+16
+17    <permission
+17-->[androidx.core:core:1.13.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\1b89a4ef0596eddf891071b8ad4b689b\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+18        android:name="io.hextree.flagsolver.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+18-->[androidx.core:core:1.13.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\1b89a4ef0596eddf891071b8ad4b689b\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+19        android:protectionLevel="signature" />
+19-->[androidx.core:core:1.13.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\1b89a4ef0596eddf891071b8ad4b689b\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+20
+21    <uses-permission android:name="io.hextree.flagsolver.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+21-->[androidx.core:core:1.13.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\1b89a4ef0596eddf891071b8ad4b689b\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+21-->[androidx.core:core:1.13.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\1b89a4ef0596eddf891071b8ad4b689b\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+22
+23    <application
+23-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:11:5-107:19
+24        android:allowBackup="true"
+24-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:12:9-35
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.13.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\1b89a4ef0596eddf891071b8ad4b689b\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+26        android:dataExtractionRules="@xml/data_extraction_rules"
+26-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:13:9-65
+27        android:debuggable="true"
+28        android:extractNativeLibs="false"
+29        android:fullBackupContent="@xml/backup_rules"
+29-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:14:9-54
+30        android:icon="@mipmap/ic_launcher_angry_luffy"
+30-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:15:9-55
+31        android:label="@string/app_name"
+31-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:16:9-41
+32        android:roundIcon="@mipmap/ic_launcher_angry_luffy_round"
+32-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:17:9-66
+33        android:supportsRtl="true"
+33-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:18:9-35
+34        android:testOnly="true"
+35        android:theme="@style/Theme.FlagSolver" >
+35-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:19:9-48
+36        <activity
+36-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:21:9-23:40
+37            android:name="io.hextree.flagsolver.servicetest"
+37-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:22:13-40
+38            android:exported="false" />
+38-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:23:13-37
+39
+40        <provider
+40-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:25:9-29:48
+41            android:name="io.hextree.flagsolver.AttackProvider"
+41-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:26:13-43
+42            android:authorities="ItsFadinG.github.io"
+42-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:27:13-54
+43            android:enabled="true"
+43-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:28:13-35
+44            android:exported="true" />
+44-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:29:13-36
+45
+46        <activity
+46-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:31:9-39:20
+47            android:name="io.hextree.flagsolver.ImplicItintetHelper"
+47-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:32:13-48
+48            android:exported="true" >
+48-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:33:13-36
+49            <intent-filter>
+49-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:34:13-38:29
+50                <action android:name="io.hextree.attacksurface.ATTACK_ME" />
+50-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:35:17-77
+50-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:35:25-74
+51
+52                <category android:name="android.intent.category.DEFAULT" />
+52-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:37:17-76
+52-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:37:27-73
+53            </intent-filter>
+54        </activity>
+55        <activity
+55-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:40:9-42:40
+56            android:name="io.hextree.flagsolver.services"
+56-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:41:13-37
+57            android:exported="false" />
+57-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:42:13-37
+58        <activity
+58-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:43:9-56:20
+59            android:name="io.hextree.flagsolver.deeplinks"
+59-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:44:13-38
+60            android:exported="true" >
+60-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:45:13-36
+61            <intent-filter>
+61-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:46:13-55:29
+62                <action android:name="android.intent.action.VIEW" />
+62-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:47:17-69
+62-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:47:25-66
+63
+64                <category android:name="android.intent.category.DEFAULT" />
+64-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:37:17-76
+64-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:37:27-73
+65                <category android:name="android.intent.category.BROWSABLE" />
+65-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:50:17-78
+65-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:50:27-75
+66
+67                <data
+67-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:52:17-54:44
+68                    android:host="token"
+68-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:53:21-41
+69                    android:scheme="hex" />
+69-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:54:21-41
+70            </intent-filter>
+71        </activity>
+72        <activity
+72-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:57:9-59:48
+73            android:name="io.hextree.flagsolver.pendingHelper"
+73-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:58:13-42
+74            android:exported="true" />
+74-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:59:13-36
+75        <activity
+75-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:60:9-68:20
+76            android:name="io.hextree.flagsolver.pendingIntent"
+76-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:61:13-42
+77            android:exported="true" >
+77-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:62:13-36
+78            <intent-filter>
+78-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:63:13-67:29
+79                <action android:name="io.hextree.attacksurface.MUTATE_ME" />
+79-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:64:17-77
+79-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:64:25-74
+80
+81                <category android:name="android.intent.category.DEFAULT" />
+81-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:37:17-76
+81-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:37:27-73
+82            </intent-filter>
+83        </activity>
+84        <activity
+84-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:69:9-79:20
+85            android:name="io.hextree.flagsolver.Providers"
+85-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:70:13-38
+86            android:exported="true" >
+86-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:71:13-36
+87            <intent-filter>
+87-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:72:13-78:29
+88                <action android:name="io.hextree.FLAG33" />
+88-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:73:17-60
+88-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:73:25-57
+89
+90                <category android:name="android.intent.category.DEFAULT" />
+90-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:37:17-76
+90-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:37:27-73
+91
+92                <data
+92-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:52:17-54:44
+93                    android:host="io.hextree.flag33_2"
+93-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:53:21-41
+94                    android:scheme="content" />
+94-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:54:21-41
+95            </intent-filter>
+96        </activity>
+97        <activity
+97-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:80:9-82:40
+98            android:name="io.hextree.flagsolver.BroadcastReceivers"
+98-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:81:13-47
+99            android:exported="false" />
+99-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:82:13-37
+100        <activity
+100-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:83:9-85:40
+101            android:name="io.hextree.flagsolver.Activity"
+101-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:84:13-37
+102            android:exported="false" />
+102-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:85:13-37
+103        <activity
+103-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:86:9-88:40
+104            android:name="io.hextree.flagsolver.not_found"
+104-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:87:13-38
+105            android:exported="false" />
+105-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:88:13-37
+106        <activity
+106-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:89:9-91:48
+107            android:name="io.hextree.flagsolver.implicitIntent"
+107-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:90:13-43
+108            android:exported="true" />
+108-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:91:13-36
+109        <activity
+109-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:92:9-94:40
+110            android:name="io.hextree.flagsolver.AvtivityResult"
+110-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:93:13-43
+111            android:exported="false" />
+111-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:94:13-37
+112        <activity
+112-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:95:9-97:40
+113            android:name="io.hextree.flagsolver.Hextree"
+113-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:96:13-36
+114            android:exported="false" />
+114-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:97:13-37
+115        <activity
+115-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:98:9-106:20
+116            android:name="io.hextree.flagsolver.menu"
+116-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:99:13-33
+117            android:exported="true" >
+117-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:100:13-36
+118            <intent-filter>
+118-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:101:13-105:29
+119                <action android:name="android.intent.action.MAIN" />
+119-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:102:17-69
+119-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:102:25-66
+120
+121                <category android:name="android.intent.category.LAUNCHER" />
+121-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:104:17-77
+121-->D:\H\OBSI\SoloLeveling\Mobile Testing\Courses\hextree\6- Intent Attack Surface\CODE\App to get flags\app\src\main\AndroidManifest.xml:104:27-74
+122            </intent-filter>
+123        </activity>
+124
+125        <provider
+125-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\ba719fc42cbbd079e9e20163ced8ada6\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+126            android:name="androidx.startup.InitializationProvider"
+126-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\ba719fc42cbbd079e9e20163ced8ada6\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+127            android:authorities="io.hextree.flagsolver.androidx-startup"
+127-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\ba719fc42cbbd079e9e20163ced8ada6\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+128            android:exported="false" >
+128-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\ba719fc42cbbd079e9e20163ced8ada6\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+129            <meta-data
+129-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\ba719fc42cbbd079e9e20163ced8ada6\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+130                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+130-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\ba719fc42cbbd079e9e20163ced8ada6\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+131                android:value="androidx.startup" />
+131-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\ba719fc42cbbd079e9e20163ced8ada6\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+132            <meta-data
+132-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\7f939e078380bf5b07c12d49b3dcb7fc\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+133                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+133-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\7f939e078380bf5b07c12d49b3dcb7fc\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+134                android:value="androidx.startup" />
+134-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\7f939e078380bf5b07c12d49b3dcb7fc\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+135            <meta-data
+135-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\9d7d7688c656d271fbe253a6ed59a587\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+136                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+136-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\9d7d7688c656d271fbe253a6ed59a587\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+137                android:value="androidx.startup" />
+137-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\9d7d7688c656d271fbe253a6ed59a587\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+138        </provider>
+139
+140        <receiver
+140-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\9d7d7688c656d271fbe253a6ed59a587\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+141            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+141-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\9d7d7688c656d271fbe253a6ed59a587\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+142            android:directBootAware="false"
+142-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\9d7d7688c656d271fbe253a6ed59a587\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+143            android:enabled="true"
+143-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\9d7d7688c656d271fbe253a6ed59a587\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+144            android:exported="true"
+144-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\9d7d7688c656d271fbe253a6ed59a587\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+145            android:permission="android.permission.DUMP" >
+145-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\9d7d7688c656d271fbe253a6ed59a587\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+146            <intent-filter>
+146-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\9d7d7688c656d271fbe253a6ed59a587\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+147                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+147-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\9d7d7688c656d271fbe253a6ed59a587\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+147-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\9d7d7688c656d271fbe253a6ed59a587\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+148            </intent-filter>
+149            <intent-filter>
+149-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\9d7d7688c656d271fbe253a6ed59a587\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+150                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+150-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\9d7d7688c656d271fbe253a6ed59a587\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+150-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\9d7d7688c656d271fbe253a6ed59a587\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+151            </intent-filter>
+152            <intent-filter>
+152-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\9d7d7688c656d271fbe253a6ed59a587\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+153                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+153-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\9d7d7688c656d271fbe253a6ed59a587\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+153-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\9d7d7688c656d271fbe253a6ed59a587\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+154            </intent-filter>
+155            <intent-filter>
+155-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\9d7d7688c656d271fbe253a6ed59a587\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+156                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+156-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\9d7d7688c656d271fbe253a6ed59a587\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+156-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\9d7d7688c656d271fbe253a6ed59a587\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+157            </intent-filter>
+158        </receiver>
+159    </application>
+160
+161</manifest>

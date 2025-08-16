@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xxhdpi_ic_launcher2_foreground.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xxhdpi\\ic_launcher2_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\drawable_luffy.jpeg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\drawable\\luffy.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\layout_activity_implic_itintet_helper.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\layout\\activity_implic_itintet_helper.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\layout_activity_pending_intent.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\layout\\activity_pending_intent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-hdpi_ic_launcher2_foreground.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-hdpi\\ic_launcher2_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xxhdpi_ic_launcher_angry_luffy_foreground.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xxhdpi\\ic_launcher_angry_luffy_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\raw_beru_404.json.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\raw\\beru_404.json"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\drawable_solo1.jpeg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\drawable\\solo1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-hdpi_ic_launcher2.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-hdpi\\ic_launcher2.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-anydpi-v26_ic_launcher2.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-anydpi-v26\\ic_launcher2.xml"
+    },
+    {
+        "merged": "io.hextree.flagsolver.app-debug-33:/layout_activity_services.xml.flat",
+        "source": "io.hextree.flagsolver.app-main-35:/layout/activity_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xxxhdpi_ic_launcher2.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xxxhdpi\\ic_launcher2.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\layout_activity_services.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\layout\\activity_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xhdpi_ic_launcher_angry_luffy.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xhdpi\\ic_launcher_angry_luffy.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-anydpi-v26_ic_launcher_angry_luffy_round.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_angry_luffy_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xxhdpi_ic_launcher_angry_luffy_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xxhdpi\\ic_launcher_angry_luffy_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\drawable_ic_launcher2_background.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\drawable\\ic_launcher2_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\layout_toast_layout_1.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\layout\\toast_layout_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\drawable_eren_flower.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\drawable\\eren_flower.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\layout_activity_deeplinks.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\layout\\activity_deeplinks.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\layout_activity_broadcast_receivers.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\layout\\activity_broadcast_receivers.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xhdpi_ic_launcher2_foreground.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xhdpi\\ic_launcher2_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-mdpi_ic_launcher_angry_luffy_foreground.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-mdpi\\ic_launcher_angry_luffy_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-hdpi_ic_launcher_angry_luffy.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-hdpi\\ic_launcher_angry_luffy.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\layout_activity_implicit_intent2.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\layout\\activity_implicit_intent2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-anydpi-v26_ic_launcher2_round.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-anydpi-v26\\ic_launcher2_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\drawable_luffy_laughinh.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\drawable\\luffy_laughinh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-mdpi_ic_launcher2_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-mdpi\\ic_launcher2_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\drawable_many_mini_gojo.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\drawable\\many_mini_gojo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-hdpi_ic_launcher_angry_luffy_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-hdpi\\ic_launcher_angry_luffy_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xxhdpi_ic_launcher2.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xxhdpi\\ic_launcher2.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\layout_activity_.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\layout\\activity_.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xxhdpi_ic_launcher_angry_luffy.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xxhdpi\\ic_launcher_angry_luffy.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\layout_activity_providers.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\layout\\activity_providers.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_angry_luffy.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_angry_luffy.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\layout_activity_pending_helper.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\layout\\activity_pending_helper.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\drawable_round_toast.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\drawable\\round_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\layout_activity_hextree.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\layout\\activity_hextree.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\layout_activity_avtivity_result.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\layout\\activity_avtivity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\layout_activity_implicit_h.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\layout\\activity_implicit_h.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-anydpi-v26_ic_launcher_angry_luffy.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_angry_luffy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-mdpi_ic_launcher2_foreground.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-mdpi\\ic_launcher2_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xxxhdpi_ic_launcher2_foreground.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xxxhdpi\\ic_launcher2_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xhdpi_ic_launcher2.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xhdpi\\ic_launcher2.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\layout_activity_not_found.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\layout\\activity_not_found.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\drawable_luffy_angry.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\drawable\\luffy_angry.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\layout_activity_implicit_intent.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\layout\\activity_implicit_intent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\drawable_sitama.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\drawable\\sitama.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-hdpi_ic_launcher_angry_luffy_foreground.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-hdpi\\ic_launcher_angry_luffy_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xxhdpi_ic_launcher2_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xxhdpi\\ic_launcher2_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xhdpi_ic_launcher_angry_luffy_foreground.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xhdpi\\ic_launcher_angry_luffy_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xxxhdpi_ic_launcher2_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xxxhdpi\\ic_launcher2_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_angry_luffy_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_angry_luffy_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_angry_luffy_foreground.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_angry_luffy_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-mdpi_ic_launcher2.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-mdpi\\ic_launcher2.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-hdpi_ic_launcher2_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-hdpi\\ic_launcher2_round.webp"
+    },
+    {
+        "merged": "io.hextree.flagsolver.app-debug-33:/layout_activity_servicetest.xml.flat",
+        "source": "io.hextree.flagsolver.app-main-35:/layout/activity_servicetest.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\drawable_attack.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\drawable\\attack.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-mdpi_ic_launcher_angry_luffy_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-mdpi\\ic_launcher_angry_luffy_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\drawable_ic_launcher_angry_luffy_background.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\drawable\\ic_launcher_angry_luffy_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xhdpi_ic_launcher2_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xhdpi\\ic_launcher2_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-xhdpi_ic_launcher_angry_luffy_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-xhdpi\\ic_launcher_angry_luffy_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-debug-33:\\mipmap-mdpi_ic_launcher_angry_luffy.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.10.2\\io.hextree.flagsolver.app-main-35:\\mipmap-mdpi\\ic_launcher_angry_luffy.webp"
+    }
+]
